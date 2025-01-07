@@ -25,3 +25,6 @@ rand = { workspace = true }
 sha2 = { workspace = true }
 primitive-types = { workspace = true }
 anyhow = { workspace = true }
+
+[lib]
+crate-type = ["cdylib"]
