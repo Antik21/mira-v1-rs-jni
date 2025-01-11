@@ -3,5 +3,5 @@
 JNI version of Rust SDK for Mira DEX v1.
 **Goal:** Compilation and integration to JVM Kotlin project
 
-# STATUS 
+# status 
 At the moment, Rust SDK is not fully implemented. We are waiting for the implementation to be completed.
